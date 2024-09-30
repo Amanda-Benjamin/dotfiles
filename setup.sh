@@ -30,4 +30,4 @@ curl -fsSL https://bun.sh/install | bash
 bun add bun-promptx --save-dev
 
 # reboot system
-sudo reboot now
+# sudo reboot now
