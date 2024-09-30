@@ -13,5 +13,8 @@ Then:
 - sudo rm -r .gitconfig .bashrc .config
 - cd dotfiles
 - stow .
+- cd
+- source .bashrc
+- cd dotfiles
 - bash setup.sh
 ```
